@@ -35,8 +35,12 @@ def turn(board)
   end
 end
 
+<<<<<<< HEAD
 def play(board)
   until board == ["X","X","X","X","X","X","X","X","X",]
   turn(board)
 end
 end
+=======
+def play
+>>>>>>> 9ebb7e799741624c7b91389a4d8e5bebaa231f82
